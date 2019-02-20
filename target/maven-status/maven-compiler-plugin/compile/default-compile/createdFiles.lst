@@ -1,0 +1,10 @@
+com\zjzx\service\WxService.class
+com\zjzx\filter\CorsFilter.class
+com\zjzx\util\SHA1.class
+com\zjzx\service\JsApiTicketService.class
+com\zjzx\Zjzx_wx8080.class
+com\zjzx\configuration\BeanConf.class
+com\zjzx\util\CheckUtil.class
+com\zjzx\constant\WxConfig.class
+com\zjzx\controller\WxController.class
+com\zjzx\service\TokenService.class
